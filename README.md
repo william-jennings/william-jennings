@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is William! </h1>
 
 - 🔭 I’m currently working on [Online Grocery Store](https://github.com/williamjennings3/Online-Grocery-Store-Spring-Boot)
-- 🌱 I’m currently learning **Java, Spring Framework, MySQL, FrontEnd(HTML/CSS/JS/Bootstrap)**
+- 🌱 I’m currently learning **Java, Spring Framework, MySQL, FrontEnd(HTML/CSS/JS/Bootstrap), Docker, MongoDB**
 - 📫 How to reach me: **[william.jennings73@gmail.com](mailto:william.jennings73@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
