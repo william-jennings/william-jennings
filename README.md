@@ -1,5 +1,5 @@
 
-<center> Hi there 👋, my name is William! </center>
+### Hi there 👋, my name is William! 
 
 
 - 🔭 I’m currently working on [Online Grocery Store](https://github.com/williamjennings3/Online-Grocery-Store-Spring-Boot)
