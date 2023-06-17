@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, my name is William! </h1>
 
-- 🔭 I’m currently working on [Online Grocery Store](https://github.com/williamjennings3/Online-Grocery-Store-Spring-Boot)
+- 🔭 I’m currently working on [Task Management App](https://github.com/williamjennings3/task-management-application), [Online Grocery Store](https://github.com/williamjennings3/Online-Grocery-Store-Spring-Boot)
 - 🌱 I’m currently learning **Java, Spring Framework, MySQL, FrontEnd(HTML/CSS/JS/Bootstrap), Docker, MongoDB**
 - 👨‍💻 Check out my personal website at [https://williamjennings3.github.io/Personal-Website/](https://williamjennings3.github.io/Personal-Website/)
 - 📫 How to reach me: **[william.jennings73@gmail.com](mailto:william.jennings73@gmail.com)**
