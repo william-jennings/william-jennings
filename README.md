@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="font-family: 'Lucida Console', monospace;">
+  <span style="font-family: 'Cutive Mono', monospace;">
     Hi there 👋, my name is William!
   </span>
 </h1>
