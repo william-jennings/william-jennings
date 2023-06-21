@@ -1,6 +1,8 @@
-<h1 style="font-family: Minecraftia; text-align: center;">Hi there 👋, my name is William!</h1>
-<span style="font-family: Minecraftia;">This text is in Minecraftia font.</span>
-
+<h1 align="center">
+  <span style="font-family: 'Lucida Console', monospace;">
+    Hi there 👋, my name is William!
+  </span>
+</h1>
 
 - 🔭 I’m currently working on [Task Management App](https://github.com/williamjennings3/task-management-application)
 - 🌱 I’m currently learning **Java, Spring Framework, MySQL, FrontEnd(HTML/CSS/JS/Bootstrap), Docker, MongoDB**
