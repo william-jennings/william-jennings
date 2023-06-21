@@ -1,4 +1,5 @@
 <h1 style="font-family: Minecraftia; text-align: center;">Hi there 👋, my name is William!</h1>
+<span style="font-family: Minecraftia;">This text is in Minecraftia font.</span>
 
 
 - 🔭 I’m currently working on [Task Management App](https://github.com/williamjennings3/task-management-application)
