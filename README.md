@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi there 👋, my name is William! </h1>
+<h1 style="font-family: Minecraftia; align="center">Hi there 👋, my name is William! </h1>
 
 - 🔭 I’m currently working on [Task Management App](https://github.com/williamjennings3/task-management-application)
 - 🌱 I’m currently learning **Java, Spring Framework, MySQL, FrontEnd(HTML/CSS/JS/Bootstrap), Docker, MongoDB**
