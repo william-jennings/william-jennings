@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, my name is William!</h1>
 
-- 🔭 I’m currently working on [Task Management App](https://github.com/williamjennings3/task-management-application)
-- 🌱 I’m currently learning **Java, Spring Framework, SQL, FrontEnd(HTML/CSS/JS/Bootstrap), Docker**
 - 📫 How to reach me: **[william.jennings73@gmail.com](mailto:william.jennings73@gmail.com)**
   
 ---
