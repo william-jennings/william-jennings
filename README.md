@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, my name is William!</h1>
 
-- 📫 How to reach me: **[william.jennings73@gmail.com](mailto:william.jennings73@gmail.com)**
+- 📫 How to reach me: **[williamjennings0@proton.me](mailto:williamjennings0@proton.me)**
   
 ---
 
